@@ -1,0 +1,19 @@
+p{
+    background-color:rgb(241, 192, 200);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#title{
+    color:blue;
+    font-size: 36px
+}
+
+#identified{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.alert-text{
+    font-size:24px;
+}
